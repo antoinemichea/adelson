@@ -1,1 +1,3 @@
-Voici une page HTML interactive basée sur l'illusion d'Adelson que vous avez fournie. Cette page permet de démontrer de manière interactive que les carrés A et B ont exactement la même couleur, même si notre perception nous dit le contraire.
+Voici une page HTML interactive basée sur l'illusion d'Adelson. Ouvrez simplement
+`index.html` dans votre navigateur puis déplacez le petit carré sur la grille pour
+démontrer que les cases marquées A et B ont bien la même couleur.

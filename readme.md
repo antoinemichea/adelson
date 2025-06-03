@@ -1,0 +1,1 @@
+Voici une page HTML interactive basée sur l'illusion d'Adelson que vous avez fournie. Cette page permet de démontrer de manière interactive que les carrés A et B ont exactement la même couleur, même si notre perception nous dit le contraire.

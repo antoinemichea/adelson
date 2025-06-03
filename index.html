@@ -7,14 +7,17 @@
   body { font-family: sans-serif; text-align: center; }
   #container { position: relative; display: inline-block; }
   #patch {
-    width: 40px;
-    height: 40px;
+    /* taille et perspective calées sur la grille */
+    width: 113px;
+    height: 183px;
     background: #777;
     border: 2px solid red;
     position: absolute;
-    top: 80px; /* approximate position over case A */
-    left: 90px;
+    top: 50px; /* position initiale à peu près sur la case A */
+    left: 80px;
     cursor: grab;
+    transform: rotate3d(900, 0, 380, 67deg);
+    transform-origin: top left;
     transition: background 0.3s;
   }
 </style>
